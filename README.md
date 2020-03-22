@@ -1,3 +1,6 @@
+See How We Q_Lear is a graphic software for graphic rappresentetation of muli-agent reinforcement learning approach in gridworld:
+
+
 ![See How We Q-Learn](https://user-images.githubusercontent.com/27236062/77256014-ce7fbd80-6c6b-11ea-9089-fbbe64325802.jpg)
 ![See How We Q-Learn (1)](https://user-images.githubusercontent.com/27236062/77256009-ccb5fa00-6c6b-11ea-9a60-bc6eb0ffeedf.jpg)
 ![See How We Q-Learn (2)](https://user-images.githubusercontent.com/27236062/77256008-cc1d6380-6c6b-11ea-9954-d8b4392992b4.jpg)
